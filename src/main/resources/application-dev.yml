@@ -1,0 +1,11 @@
+server:
+  port: 9999
+  servlet:
+    context-path: /demo1
+offcn_ip: 192.168.255.66
+offcn_port: 8983
+userbody:
+  id: 1
+  name: yunyun
+  age: 18
+  address: chongqingnanping
